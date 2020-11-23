@@ -1,0 +1,7 @@
+h1{background-color: red;} 
+        title{border: solid;}
+        body{background-color: yellow;}
+        .Games{display: flex; flex-direction:row; justify-content:space-around ;}
+        .Games2{display: flex; flex-direction:row; justify-content:space-around ;}
+        .Games{border: solid;}
+        .Games2{border: solid;}
